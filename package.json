@@ -4,8 +4,13 @@
   "description": "Entendiendo ecmascript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "es6": "node src/es6/index.js",
+    "es7": "node src/es7/index.js",
+    "es8": "node src/es8/index.js",
+    "es9": "node src/es9/index.js",
+    "es10": "node src/es10/index.js"
   },
   "author": "Bernardino Villagra <bernardinovillagra@hotmail.com> (https://twitter.com/villagrabaez)",
   "license": "MIT"
 }
+
